@@ -26,6 +26,8 @@ The objective of this project was to explore Toronto bike theft data and build a
 
 The Tableau dashboard was designed to make Toronto bike theft trends easy to explore and understand.
 
+![Toronto Bike Theft Dashboard](theftfrequency.png)
+
 ### Dashboard Features
 
 - Monthly theft trend analysis
